@@ -1,1 +1,27 @@
+[
+  {
+    "username": "TapTitan",
+    "favoriteGame": "Clash Royale",
+    "status": "Online",
+    "avatarName": "gamer1"
+  },
+  {
+    "username": "ArenaMaster",
+    "favoriteGame": "Brawl Stars",
+    "status": "AFK",
+    "avatarName": "gamer2"
+  },
+  {
+    "username": "PocketSniper",
+    "favoriteGame": "PUBG Mobile",
+    "status": "In Match",
+    "avatarName": "gamer3"
+  },
+  {
+    "username": "SpeedMiner",
+    "favoriteGame": "Minecraft PE",
+    "status": "Idle",
+    "avatarName": "gamer4"
+  }
+]
 
