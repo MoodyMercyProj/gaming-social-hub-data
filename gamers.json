@@ -6,22 +6,34 @@
     "avatarName": "gamer1"
   },
   {
+    "username": "IwishBetter",
+    "favoriteGame": "Roblox",
+    "status": "AFK",
+    "avatarName": "gamer2"
+  },
+  {
+    "username": "KobeShotMaker",
+    "favoriteGame": "COD Mobile",
+    "status": "In Match",
+    "avatarName": "gamer3"
+  },
+  {
     "username": "MakeBetterToast",
     "favoriteGame": "Brawl Stars",
     "status": "AFK",
-    "avatarName": "gamer2"
+    "avatarName": "gamer4"
   },
   {
     "username": "KyrieBuckets9",
     "favoriteGame": "PUBG Mobile",
     "status": "In Match",
-    "avatarName": "gamer3"
+    "avatarName": "gamer5"
   },
   {
     "username": "BronBron4",
     "favoriteGame": "Minecraft PE",
     "status": "Idle",
-    "avatarName": "gamer4"
+    "avatarName": "gamer6"
   }
 ]
 
